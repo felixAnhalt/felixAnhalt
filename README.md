@@ -1,9 +1,16 @@
 # Welcome
 
-Hey, I’m Felix Anhalt — Senior Fullstack Engineer.
+Hey, I'm Felix Anhalt, senior full stack software engineer.
 
-At my first job I was born into the world of business process automation in Java with camunda BPM.
-At my second, the journey broadened into Frontend (React, Remix, Next), node (everything in TS) and now lots of python.
+## Favorite topics
+* Automation
+* Integration of different systems
+* DX
+* Trying random FE frameworks
+
+## Personal journey 
+I started out in the world of business process automation in Java with camunda BPM.
+Afterwards, the journey broadened into Frontend (React, Remix, Next), node (everything in TS) and now lots of python.
 I like code that's self-explanatory and suffices for all the -illities you can think of, mostly maintainability and readability tho.
 
 ## Areas I Work In/Worked in recently
@@ -15,7 +22,7 @@ I like code that's self-explanatory and suffices for all the -illities you can t
 *	Practicality First: Get it working first, then polish.
 *	Technology is a tool, not a religion. LLMs as well.
 *	Code is for people first, machines second.
-*   Simplicity > Complexity
+* Simplicity > Complexity
 
 
 ## Links
